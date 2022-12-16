@@ -1,0 +1,48 @@
+.alta
+{
+    border-style: solid;
+    border-color: black;
+    padding: 1em;
+    background-color: white;
+    color: black;
+}
+.editarsuper
+{
+    border-style: solid;
+    border-color: yellow;
+    padding: 1em;
+    background-color: white;
+    color: black;
+}
+body
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,5,79,1) 0%, rgba(0,212,255,1) 50%, rgba(9,9,121,1) 100%, rgba(6,5,79,1) 100%);
+    color: white;
+}
+label
+{
+    color: black;
+}
+h1
+{
+    color: black;
+    background-color: white;
+    border-style: solid;
+    justify-content: center;
+    text-align:center;
+}
+.tablasupers
+{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    color: black;
+    max-width: 10cm;
+}
+.dividir
+{
+    border-style: solid;
+    border-color: black;
+
+}
